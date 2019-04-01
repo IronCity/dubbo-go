@@ -1,6 +1,6 @@
 # dubbo-go #
 ---
-Apache Dubbo golang version.
+Apache Dubbo Golang Implementation.
 
 ## License
 
